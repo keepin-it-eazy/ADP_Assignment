@@ -1,4 +1,4 @@
-package Domain;
+package domain;
 
 /*
   Product.java
@@ -126,4 +126,3 @@ public class Product {
         }
     }
 }
-
